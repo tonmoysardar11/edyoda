@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/edyoda/static/css/main.78aba7ff.css",
+    "main.js": "/edyoda/static/js/main.37009cfe.js",
+    "static/js/787.5063ad48.chunk.js": "/edyoda/static/js/787.5063ad48.chunk.js",
+    "static/media/Back Ground.svg": "/edyoda/static/media/Back Ground.6409f74e8672aaed6d34.svg",
+    "static/media/Icon.svg": "/edyoda/static/media/Icon.d1bc988ddd425a1a0a85d7709cbc6a6e.svg",
+    "static/media/Icon-2.svg": "/edyoda/static/media/Icon-2.499ca3c988da74ea55aa67cc9ef63ca1.svg",
+    "static/media/Icon-4.svg": "/edyoda/static/media/Icon-4.f64bef610776584219a88423946b6232.svg",
+    "static/media/Icon-3.svg": "/edyoda/static/media/Icon-3.ac26c6260d30f833f4d7a4d4202228de.svg",
+    "static/media/Icon-1.svg": "/edyoda/static/media/Icon-1.33a4e3dacafae09ca2fed459dc36db52.svg",
+    "index.html": "/edyoda/index.html",
+    "static/media/Icon Clock.svg": "/edyoda/static/media/Icon Clock.a29abe9883517b1f99a8d56ca388715f.svg",
+    "main.78aba7ff.css.map": "/edyoda/static/css/main.78aba7ff.css.map",
+    "main.37009cfe.js.map": "/edyoda/static/js/main.37009cfe.js.map",
+    "787.5063ad48.chunk.js.map": "/edyoda/static/js/787.5063ad48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78aba7ff.css",
+    "static/js/main.37009cfe.js"
+  ]
+}
