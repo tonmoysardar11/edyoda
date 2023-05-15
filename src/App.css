@@ -305,8 +305,9 @@ nav {
 }
 
 .radio-custom:checked+.radio-custom-label {
-  border: 2px solid green;
-
+  border: 2px solid rgb(0, 128, 0);
+  background-color: rgba(0, 128, 0,0.2);
+  
 }
 
 .radio-custom:focus+.radio-custom-label {
@@ -412,6 +413,10 @@ hr{
   .main_left_heading{
       font-size: 30px;
   }
+
+  .tag_exp,.tag_rec{
+    top: -13%;
+  }
   nav{
       padding: 12px 40px;
       flex-direction: column;
@@ -449,6 +454,12 @@ hr{
   }
   .item .text{
       margin: 0;
+  }
+  .main_right{
+    width: 90vw;
+  }
+  .options{
+    width: 90%;
   }
 }
 
